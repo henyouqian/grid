@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>99132317-80E9-420F-90BB-9452AB0E9415</string>
+	<key>IDESourceControlProjectName</key>
+	<string>empty</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>63BB12DD-8FBF-4C81-BE3D-0D057D167290</key>
+		<string>https://github.com/henyouqian/lwfk.git</string>
+		<key>90A02B55-9CFF-4E69-A2D4-90A83584E88F</key>
+		<string>https://github.com/henyouqian/grid.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>client/build/ios/empty.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>63BB12DD-8FBF-4C81-BE3D-0D057D167290</key>
+		<string>../../../../../../lwfk</string>
+		<key>90A02B55-9CFF-4E69-A2D4-90A83584E88F</key>
+		<string>../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/henyouqian/grid.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>90A02B55-9CFF-4E69-A2D4-90A83584E88F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>90A02B55-9CFF-4E69-A2D4-90A83584E88F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>grid</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>63BB12DD-8FBF-4C81-BE3D-0D057D167290</string>
+			<key>IDESourceControlWCCName</key>
+			<string>lwfk</string>
+		</dict>
+	</array>
+</dict>
+</plist>
